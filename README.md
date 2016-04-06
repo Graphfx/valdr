@@ -107,6 +107,7 @@ yourApp.config(function(valdrProvider) {
         }
       }
     }
+  });
 });
 ```
 
